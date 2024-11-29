@@ -6,12 +6,29 @@ a {
     text-decoration: none;
 }
 
+ul,
+ol {
+    list-style-type: none;
+}
+
+button {
+    cursor: pointer;
+}
+
 /* Header */
 .header-page {}
 
 .nav-page {}
 
-.logo {}
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 0px;
+    width: 115px;
+    height: 24px;
+}
 
 .nav-list {}
 
