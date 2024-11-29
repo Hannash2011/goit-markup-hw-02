@@ -1,3 +1,22 @@
 body {
     font-family: "Roboto", "Raleway" sans-serif;
 }
+
+a {
+    text-decoration: none;
+}
+
+/* Header */
+.header-page {}
+
+.nav-page {}
+
+.logo {}
+
+.nav-list {}
+
+.nav-item {}
+
+.nav-item-link {}
+
+/*   */
