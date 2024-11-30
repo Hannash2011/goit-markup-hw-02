@@ -119,6 +119,10 @@ button {
     color: #2e2f42;
 }
 
+.caption {
+    font-size: 16px;
+}
+
 .team {
     background-color: #F4F4FD;
 }
@@ -135,5 +139,6 @@ button {
 .foto {
     background-color: #FFFFFF;
 }
+
 
 /*   */
