@@ -51,7 +51,14 @@ button {
 
 .nav-item {}
 
-.nav-item-link {}
+.nav-item-link {
+    color: #2e2f42;
+}
+
+.nav-item-link:hover,
+.nav-item-link:focus {
+    color: #404bbf
+}
 
 .address-page {
     font-style: normal
