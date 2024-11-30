@@ -47,7 +47,15 @@ button {
     color: #2e2f42;
 }
 
-.address-page {}
+.nav-list {}
+
+.nav-item {}
+
+.nav-item-link {}
+
+.address-page {
+    font-style: normal
+}
 
 .address-list {}
 
