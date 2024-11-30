@@ -47,22 +47,30 @@ button {
     color: #2e2f42;
 }
 
-.nav-list {}
-
-.nav-item {}
-
-.nav-item-link {}
-
 .address-page {}
 
 .address-list {}
 
 .mailto-item {}
 
-.mailto-item-list {}
+.mailto-item-link {
+    color: #434455;
+}
+
+.mailto-item-link:hover,
+.mailto-item-link:focus {
+    color: #404bbf;
+}
 
 .tel-item {}
 
-.tel-item-list {}
+.tel-item-link {
+    color: #434455;
+}
+
+.tel-item-link:hover,
+.tel-item-link:focus {
+    color: #404bbf;
+}
 
 /*   */
