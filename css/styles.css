@@ -111,10 +111,7 @@ button {
     background-color: #404BBF;
 }
 
-.strategy-new,
-.punctuality-new,
-.diligence-new,
-.technologies-new {
+.possibilities {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
