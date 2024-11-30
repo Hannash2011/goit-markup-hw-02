@@ -68,12 +68,21 @@ button {
 
 .mailto-item {}
 
-.adress-item-link {
+.mailto-item-link {
     color: #434455;
 }
 
-.adress-item-link:hover,
-.adress-item-link:focus {
+.mailto-item-link:hover,
+.mailto-item-link:focus {
+    color: #404bbf;
+}
+
+.tel-item-link {
+    color: #434455;
+}
+
+.tel-item-link:hover,
+.tel-item-link:focus {
     color: #404bbf;
 }
 
